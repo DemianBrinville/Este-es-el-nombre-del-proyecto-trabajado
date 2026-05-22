@@ -1,5 +1,5 @@
 function App() {
-  return <h1>Este es el sublime título</h1>;
+  return <h2>Este es el sublime título</h2>;
 }
 
 export default App;
