@@ -2,6 +2,11 @@ import { useState } from "react";
 
 function App() {
   const [count, setCount] = useState(0);
+  const uno = "";
+  const dos = "";
+  const tres = "";
+  const cuatro = "";
+  const cinco = "";
   return (
     <>
       <button onClick={() => setCount(count + 1)}>add</button>
